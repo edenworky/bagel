@@ -1,0 +1,7 @@
+{
+  "name": "bagel",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app/index.js",
+  "author": "Eden Landau <edenworky@gmail.com>"
+}
