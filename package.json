@@ -3,5 +3,11 @@
   "version": "0.0.0",
   "description": "",
   "main": "app/index.js",
-  "author": "Eden Landau <edenworky@gmail.com>"
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Eden Landau <edenworky@gmail.com>",
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
 }
